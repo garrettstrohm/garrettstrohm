@@ -18,8 +18,8 @@ Here is a bit about me:
 - 📫 How to reach me:
   
   email: garres4@vt.edu
-  <a href='https://www.linkedin.com/in/gstrohm/'>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn badge"/>
-  </a>
+  LinkedIn: https://www.linkedin.com/in/gstrohm/
+ 
+ 
   
 
