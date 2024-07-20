@@ -1,8 +1,8 @@
-Current DevOps Cloud Engineer at Upstart
+Current DevOps Engineer II at Upstart
 
 - 📫 How to reach me:
   
-  email: garres4@vt.edu
+  email: strohmgarrett@gmail.com
   LinkedIn: https://www.linkedin.com/in/gstrohm/
  
  
